@@ -1,2 +1,4 @@
+
 console.log("config.js");
-console.log("Ver444444444444444444444444sti000on 13333333");
+console.log("V33333333333333333ersti000on 13333333");
+
