@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("Verstion 1");
+console.log("Versti000on 1");
